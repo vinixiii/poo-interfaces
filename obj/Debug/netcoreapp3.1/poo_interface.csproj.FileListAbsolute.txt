@@ -1,0 +1,13 @@
+C:\Users\vinixiii\Desktop\18_12\poo_interface\bin\Debug\netcoreapp3.1\poo_interface.exe
+C:\Users\vinixiii\Desktop\18_12\poo_interface\bin\Debug\netcoreapp3.1\poo_interface.deps.json
+C:\Users\vinixiii\Desktop\18_12\poo_interface\bin\Debug\netcoreapp3.1\poo_interface.runtimeconfig.json
+C:\Users\vinixiii\Desktop\18_12\poo_interface\bin\Debug\netcoreapp3.1\poo_interface.runtimeconfig.dev.json
+C:\Users\vinixiii\Desktop\18_12\poo_interface\bin\Debug\netcoreapp3.1\poo_interface.dll
+C:\Users\vinixiii\Desktop\18_12\poo_interface\bin\Debug\netcoreapp3.1\poo_interface.pdb
+C:\Users\vinixiii\Desktop\18_12\poo_interface\obj\Debug\netcoreapp3.1\poo_interface.csprojAssemblyReference.cache
+C:\Users\vinixiii\Desktop\18_12\poo_interface\obj\Debug\netcoreapp3.1\poo_interface.AssemblyInfoInputs.cache
+C:\Users\vinixiii\Desktop\18_12\poo_interface\obj\Debug\netcoreapp3.1\poo_interface.AssemblyInfo.cs
+C:\Users\vinixiii\Desktop\18_12\poo_interface\obj\Debug\netcoreapp3.1\poo_interface.csproj.CoreCompileInputs.cache
+C:\Users\vinixiii\Desktop\18_12\poo_interface\obj\Debug\netcoreapp3.1\poo_interface.dll
+C:\Users\vinixiii\Desktop\18_12\poo_interface\obj\Debug\netcoreapp3.1\poo_interface.pdb
+C:\Users\vinixiii\Desktop\18_12\poo_interface\obj\Debug\netcoreapp3.1\poo_interface.genruntimeconfig.cache
